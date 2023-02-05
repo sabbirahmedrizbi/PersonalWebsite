@@ -49,9 +49,11 @@ section{
     float: left;
     height: 60%;
 }
-.top-left-banner3{
+.bottom-left-banner3{
+    background-image: url(Images/latest-work-bg.png);
     padding-top: 15%;
-    background-image: url(Images/latest-work-bg.png)
+    background-repeat: no-repeat;
+    overflow-wrap: normal;
 }
 .work-text{
     text-align: center;
@@ -61,4 +63,32 @@ section{
         font-size: 36px;
         line-height: 50px;
     }
+}
+.last{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.Client{
+    padding-top: 40px;
+}
+.ceo{
+    size: 5%;
+    text-align: center;
+    padding-top: 0px;
+}
+.top-left-banner4{
+    background-image: url(Images/footer-bg.png);
+}
+.email{
+    text-align: center;
+    background-color: rgb(255, 0, 140);
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 330px;
+    margin-right: 330px;
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
 }
