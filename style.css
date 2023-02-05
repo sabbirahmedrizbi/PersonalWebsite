@@ -1,6 +1,5 @@
 body{
     font-family: 'IBM Plex Mono', monospace;
-    padding: 10px;
 }
 .top-left-banner{
     background-image: url(Images/header-bg.png);
@@ -56,4 +55,10 @@ section{
 }
 .work-text{
     text-align: center;
+}
+@media screen and (max-width: 600px) {
+    h2{
+        font-size: 36px;
+        line-height: 50px;
+    }
 }
