@@ -5,7 +5,7 @@ body{
 .top-left-banner{
     background-image: url(Images/header-bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     height: 100%;
     margin-bottom: 50px;
 }
@@ -17,7 +17,7 @@ body{
 .top-left-banner2{
     background-image: url(Images/biography-bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     height: 100%;
     margin-bottom: 0px;
 }
@@ -98,7 +98,7 @@ section{
 .bottom-left-banner3{
     background-image: url(Images/latest-work-bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     margin-top: 5%;
     height: 100%;
 }
@@ -126,7 +126,7 @@ section{
 .top-left-banner4{
     background-image: url(Images/footer-bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     height: 100%;
     margin-top: 0%;
 }
